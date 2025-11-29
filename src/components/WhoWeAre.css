@@ -1,0 +1,71 @@
+.who-section {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.big-img {
+  position: relative;
+}
+
+.big-img img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.years-box {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: white;
+  padding: 20px 25px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.years-box h2 {
+  font-size: 40px;
+  margin: 0;
+  color: #2d2d7f;
+}
+
+.years-box p {
+  margin: 0;
+  color: #555;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.small-imgs .small-img {
+  width: 48%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.who-badge {
+  background: #eef2ff;
+  padding: 6px 15px;
+  border-radius: 20px;
+  color: #3b3bb3;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.who-title {
+  font-size: 32px;
+  line-height: 1.4;
+  color: #1a1a3d;
+}
+
+.icon-box {
+  background: #eef2ff;
+  color: #3b3bb3;
+  padding: 10px 12px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.phone-number {
+  font-size: 18px;
+  color: #1a1a3d;
+}
